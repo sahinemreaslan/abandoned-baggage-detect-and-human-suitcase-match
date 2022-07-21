@@ -25,19 +25,6 @@ Geçmiş yıllarda yetersiz kalan donanım gücü nedeniyle baş omuz maskesi ku
 insan tespiti yapılmaya çalışmış. Bu çalışmada valizlerin birden fazla terk edilmesi
 durumu için yetersiz kalmış. Fakat bu durumlar şuanda çalışmada ele alınmıştır.
 ```
-### 3.3 Dönem İçi Yapılan Çalışmaların Özeti
-
-1. Proje konusun belirlenmesi, literatür araştırması
-2. Veri Setinin Oluşturulması, canlı yayınlardan uygun şartlar oluştuğunda verilerin
-    toplanması
-3. Gerçek zamanlı çıkarım yapabilecek hıza sahip uygun modelin seçimi
-4. Model İçin Hiper Parametre Seçimi
-5. Modelin Performans Değerlendirmesinin yapılması
-6. Takip Algoritmalarının incelenerek çoklu takip yapabilen algoritmanın seçimi
-7. Tespit modeliyle takip algoritmasının birleştirilmesi
-8. Tespit edilen insan ve bagaj nesnesi arasında ki ilişkiyi kuran fonksiyonun yazılması
-
-
 ## 4 Proje Mevcut Durum Değerlendirmesi
 
 ```
