@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/43322788/180246848-0ea0caa0-dd6a-445f-9887-0967b19b9aab.png)
+
 ### 3.1 Projenin Amacı ve Önemi
 
 ```
