@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/43322788/180246848-0ea0caa0-dd6a-445f-9887-0967b19b9aab.png){:height="36px" width="36px"}
+![image](https://user-images.githubusercontent.com/43322788/180246848-0ea0caa0-dd6a-445f-9887-0967b19b9aab.png)
 
 ### 3.1 Projenin Amacı ve Önemi
 
@@ -37,18 +37,21 @@ Projede ele alınmış durumlara 4.1’inci başlıkta yer verilmiştir.
 ### 4.1 Projede Ele Alınmış Durumlar
 
 #### 4.1.1 Durum 1 : İnsanın Bagajıyla Eşleştirilmesi
+![image](https://user-images.githubusercontent.com/43322788/180248086-2579a43e-2ec7-460c-8996-f2480b936e08.png)
 
 ```
 İnsan görüntüye girdiği andan itibaren valiziyle yeşil çizgiyle eşleşir, bu risk olmadığını
 ifade eder.
 ```
 #### 4.1.2 Durum 2 : İnsanın Bagajını Terk Etmesi
+![image](https://user-images.githubusercontent.com/43322788/180248046-6caebaf5-a21b-4d9d-a474-636fcb082549.png)
 
 ```
 Valizinden ayrılmaya başladığı süreçte kırmızı çizgiyle işaretlenir, bu riskli durumu ifade
 eder.
 ```
 #### 4.1.3 Durum 3 : Bagaj Sahibinin Yanına Başkalarının Gelmesi Durumu
+![image](https://user-images.githubusercontent.com/43322788/180247974-654c0a63-99d5-4a5c-b6e4-677035ab43d2.png)
 
 ```
 Valiz yalnızca onu kamera görüntüsünün içine getiren kişiyle eşlenir. Böylelikle valizin
