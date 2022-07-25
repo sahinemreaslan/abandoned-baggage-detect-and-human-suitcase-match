@@ -59,11 +59,8 @@ kalabalık bir ortamda terk edildiği durumda başka insanlarla eşleştirilmeme
 olur.
 ```
 ### 5 Projenin Örnek Görüntüleri 
-<p align="center">
-![mp4togif](https://user-images.githubusercontent.com/43322788/180884003-6b73fded-7c9d-435a-ab05-a6552b521362.gif)
-</p>
+![mp4togif](https://user-images.githubusercontent.com/43322788/180884003-6b73fded-7c9d-435a-ab05-a6552b521362.gif?style=centerme)
 ```
 Bütün durumları içeren örnek görüntüleri yukarıda ki gifte paylaşılmıştır.
-
 ```
 
