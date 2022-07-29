@@ -27,6 +27,10 @@ Geçmiş yıllarda yetersiz kalan donanım gücü nedeniyle baş omuz maskesi ku
 insan tespiti yapılmaya çalışmış. Bu çalışmada valizlerin birden fazla terk edilmesi
 durumu için yetersiz kalmış. Fakat bu durumlar şuanda çalışmada ele alınmıştır.
 ```
+### 3.3 Projenin Akış Şeması
+```
+![Adsız](https://user-images.githubusercontent.com/43322788/181806957-be6f98a2-7e5f-4116-b0f2-0c96d68a4b63.png)
+```
 ## 4 Proje Mevcut Durum Değerlendirmesi
 
 ```
